@@ -1,4 +1,4 @@
-# Sales Analysis using Machine learning Algorithm leinear Regression
+# Sales Analysis using Machine learning Algorithm linear Regression
 
 
 ## Dataset Overview
